@@ -5,8 +5,8 @@ public class test1 {
 
 		System.out.println("In m1 A");
 	  	//changes4
-	  	System.out.println("In m1 B3");
-	 	 System.out.println("In m1 C3");
-	 	 System.out.println("In m1 C4");
+
+	  	System.out.println("In m1 B2");
+	 	 System.out.println("In m1 C2");
 	}
 }
